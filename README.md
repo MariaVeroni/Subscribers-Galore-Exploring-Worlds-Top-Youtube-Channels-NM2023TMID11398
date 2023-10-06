@@ -7,3 +7,5 @@ Dashboard Puplic link 2 https://public.tableau.com/views/Book1_16958260237870/Da
 Dashboard puplic link 3 https://public.tableau.com/views/Book1_16958260237870/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 Dashboard puplic link 4 https://public.tableau.com/views/Book1_16958260237870/Dashboard4?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+Story puplic link https://public.tableau.com/views/Book1_16958260237870/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
