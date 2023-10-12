@@ -10,4 +10,4 @@ Dashboard puplic link 4 https://public.tableau.com/views/Book1_16958260237870/Da
 
 Story puplic link https://public.tableau.com/views/Book1_16958260237870/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-Demo video link https://www.mediafire.com/file/bjma47e0p10ftqg/Video.Guru_20231009_205304580.mp4/file
+Demo video link https://drive.google.com/file/d/1r9J4aiQrOVhIwf93TFKtwXU3qgzjHwrc/view?usp=sharing
